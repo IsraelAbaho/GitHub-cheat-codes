@@ -1,0 +1,8 @@
+ls --- this is for list of document/files you have in the directory
+cd ""    ---- this is a link to the directory ( $ cd "Here put directory")
+git init ------ this initialises git in the directory
+git remote add origin "then put the repo link HTTP" --- this is the link of the repo
+git remote -v ------ this shows that the folder are ready to push
+git add . ------------ this means that you are going to put all the files in the folder or you cn put one
+git commit -m "First Commit" -------- this commits the files
+git push origin master ---- this pushes it to the account.
